@@ -1,0 +1,24 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/back.jpg" filesize="95550" filedate="2018-11-16 20:08:27" width="511px" height="720px"/>
+<image path="images/book.png" filesize="219" filedate="2018-11-16 20:08:28" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-11-16 20:08:28" width="16px" height="11px"/>
+<image path="images/external.png" filesize="151" filedate="2018-09-11 21:51:13" width="12px" height="12px"/>
+<image path="images/front.jpg" filesize="100981" filedate="2018-11-16 20:08:28" width="524px" height="720px"/>
+<image path="images/frontispiece.jpg" filesize="53447" filedate="2018-11-17 08:06:00" width="489px" height="357px"/>
+<image path="images/logo.png" filesize="6675" filedate="2018-11-16 20:08:28" width="121px" height="176px"/>
+<image path="images/p003.png" filesize="5800" filedate="2018-11-17 08:06:00" width="177px" height="208px"/>
+<image path="images/p010.png" filesize="4056" filedate="2018-11-17 08:06:04" width="99px" height="245px"/>
+<image path="images/p030.png" filesize="5271" filedate="2018-11-17 08:06:04" width="175px" height="168px"/>
+<image path="images/p043.png" filesize="4027" filedate="2018-11-17 08:06:07" width="125px" height="169px"/>
+<image path="images/p046.png" filesize="5301" filedate="2018-11-17 08:06:08" width="177px" height="191px"/>
+<image path="images/p091.png" filesize="4631" filedate="2018-11-17 08:06:08" width="167px" height="181px"/>
+<image path="images/p105.png" filesize="5020" filedate="2018-11-17 08:06:09" width="124px" height="193px"/>
+<image path="images/p112.png" filesize="6740" filedate="2018-11-17 08:06:10" width="192px" height="206px"/>
+<image path="images/p140.png" filesize="5725" filedate="2018-11-17 08:06:10" width="183px" height="154px"/>
+<image path="images/p170.png" filesize="4363" filedate="2018-11-17 08:06:11" width="118px" height="142px"/>
+<image path="images/p201.png" filesize="4643" filedate="2018-11-17 08:06:11" width="132px" height="152px"/>
+<image path="images/p202.png" filesize="8477" filedate="2018-11-17 08:06:12" width="189px" height="309px"/>
+<image path="images/qrcode.png" filesize="267" filedate="2018-11-20 19:57:30" width="148px" height="148px"/>
+<image path="images/spine.jpg" filesize="18958" filedate="2018-11-16 20:08:29" width="95px" height="720px"/>
+<image path="images/titlepage.png" filesize="11291" filedate="2018-11-16 20:08:32" width="498px" height="720px"/>
+</images>
